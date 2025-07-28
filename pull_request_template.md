@@ -1,9 +1,11 @@
 **BDMS-123: Example display bug**
-
-_JIRA project & ticket number and short description (e.g., BDMS-123: Example display bug), or NO TICKET_
-
+<!--
+- JIRA project & ticket number and short description (e.g., BDMS-123: Example display bug), or NO TICKET
+-->
 ---
-
+<!--
+- Keep sections short and scannable.
+-->
 ### **Why**
 _This PR addresses the following problem / context:_
 - Use bullet points here
