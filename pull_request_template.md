@@ -1,9 +1,5 @@
-**BDMS-123: Example display bug**
 <!--
-- JIRA project & ticket number and short description (e.g., BDMS-123: Example display bug), or NO TICKET
--->
----
-<!--
+- Title the PR with the JIRA project & ticket number and short description (e.g., BDMS-123: Example display bug), or NO TICKET
 - Keep sections short and scannable.
 -->
 ### **Why**
